@@ -1,0 +1,8 @@
+﻿  huffmanAlg.cpp
+huffmanAlg.cpp(332): warning C4244: '+=': conversion from 'double' to 'unsigned int', possible loss of data
+huffmanAlg.cpp(356): warning C4244: '+=': conversion from 'double' to 'unsigned int', possible loss of data
+  Generating code
+  All 1069 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  HuffmanEncoding.vcxproj -> C:\Users\arcaneshift\Dropbox\Programming\Projects\C++ Projects\HuffmanEncoding\Release\HuffmanEncoding.exe
+  HuffmanEncoding.vcxproj -> C:\Users\arcaneshift\Dropbox\Programming\Projects\C++ Projects\HuffmanEncoding\Release\HuffmanEncoding.pdb (Full PDB)
